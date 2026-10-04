@@ -1,6 +1,6 @@
 ## Hi, I'm Abhinav 👋
 
-Backend Software Engineer with 5.5+ years building scalable distributed systems.
+Backend Software Engineer with 6+ years building scalable distributed systems.
 
 **Tech:** Java · Spring Boot · Apache Kafka · Redis · AWS · PostgreSQL · DynamoDB · Docker
 
